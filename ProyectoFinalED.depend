@@ -1,0 +1,125 @@
+# depslib dependency file v1.0
+1624669040 source:c:\users\admin\documents\cucei\proyectofinaled\main.cpp
+	<iostream>
+	"GeneralManager.h"
+	<cstdlib>
+	<conio.h>
+	<algorithm>
+
+1624510736 source:c:\users\admin\documents\cucei\proyectofinaled\src\usuario.cpp
+	"Usuario.h"
+
+1624658112 c:\users\admin\documents\cucei\proyectofinaled\include\usuario.h
+	<iostream>
+	<iomanip>
+
+1624669040 c:\users\admin\documents\cucei\proyectofinaled\include\generalmanager.h
+	<iostream>
+	"vector"
+	"Usuario.h"
+	"Cliente.h"
+	"Joya.h"
+
+1624685221 source:c:\users\admin\documents\cucei\proyectofinaled\src\generalmanager.cpp
+	"GeneralManager.h"
+	<algorithm>
+	<cstdlib>
+	<iomanip>
+	<fstream>
+
+1624682519 c:\users\admin\documents\cucei\proyectofinaled\include\cliente.h
+	<iostream>
+	"Registro.h"
+	<stack>
+
+1624685334 c:\users\admin\documents\cucei\proyectofinaled\include\recibo.h
+	<iostream>
+	<iomanip>
+	"Joya.h"
+
+1624657269 c:\users\admin\documents\cucei\proyectofinaled\include\joya.h
+	<iostream>
+	<iomanip>
+
+1624637650 source:c:\users\admin\documents\cucei\proyectofinaled\src\joya.cpp
+	"Joya.h"
+	<algorithm>
+
+1624682463 source:c:\users\admin\documents\cucei\proyectofinaled\src\recibo.cpp
+	"Recibo.h"
+
+1624682666 source:c:\users\admin\documents\cucei\proyectofinaled\src\cliente.cpp
+	"Cliente.h"
+	<fstream>
+	<algorithm>
+
+1624684933 source:c:\users\admin\documents\cucei\proyectofinaled\src\registro.cpp
+	"Registro.h"
+
+1624684826 c:\users\admin\documents\cucei\proyectofinaled\include\registro.h
+	"Recibo.h"
+	<iostream>
+	<iomanip>
+
+1624665440 source:d:\documentos\universidad\cucei semestre ii\proyectofinaled\main.cpp
+	<iostream>
+	"GeneralManager.h"
+	<cstdlib>
+	<conio.h>
+	<algorithm>
+
+1624665440 d:\documentos\universidad\cucei semestre ii\proyectofinaled\include\generalmanager.h
+	<iostream>
+	"vector"
+	"Usuario.h"
+	"Cliente.h"
+	"Joya.h"
+
+1624654512 d:\documentos\universidad\cucei semestre ii\proyectofinaled\include\usuario.h
+	<iostream>
+	<iomanip>
+
+1624678919 d:\documentos\universidad\cucei semestre ii\proyectofinaled\include\cliente.h
+	<iostream>
+	"Registro.h"
+	<stack>
+
+1624681226 d:\documentos\universidad\cucei semestre ii\proyectofinaled\include\registro.h
+	"Recibo.h"
+	<iostream>
+	<iomanip>
+
+1624683699 d:\documentos\universidad\cucei semestre ii\proyectofinaled\include\recibo.h
+	<iostream>
+	<iomanip>
+	"Joya.h"
+
+1624653669 d:\documentos\universidad\cucei semestre ii\proyectofinaled\include\joya.h
+	<iostream>
+	<iomanip>
+
+1624679066 source:d:\documentos\universidad\cucei semestre ii\proyectofinaled\src\cliente.cpp
+	"Cliente.h"
+	<fstream>
+	<algorithm>
+
+1624681621 source:d:\documentos\universidad\cucei semestre ii\proyectofinaled\src\generalmanager.cpp
+	"GeneralManager.h"
+	<algorithm>
+	<cstdlib>
+	<iomanip>
+	<fstream>
+
+1624634050 source:d:\documentos\universidad\cucei semestre ii\proyectofinaled\src\joya.cpp
+	"Joya.h"
+	<algorithm>
+
+1624678863 source:d:\documentos\universidad\cucei semestre ii\proyectofinaled\src\recibo.cpp
+	"Recibo.h"
+
+1624682235 source:d:\documentos\universidad\cucei semestre ii\proyectofinaled\src\registro.cpp
+	"Registro.h"
+
+1624507136 source:d:\documentos\universidad\cucei semestre ii\proyectofinaled\src\usuario.cpp
+	"Usuario.h"
+
